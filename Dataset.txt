@@ -1,0 +1,3 @@
+rating_beauty dataset for recommendations system (I) & (II) : https://drive.google.com/file/d/1ucBGySjFKI28t2HI6gbEovwDcPfY9YDg/view?usp=sharing
+
+Product descriptions dataset for Recommenadtions system (III): https://drive.google.com/file/d/1seY241FBTZGghvUN8Vknd7dU_VqhC0JK/view?usp=sharing
